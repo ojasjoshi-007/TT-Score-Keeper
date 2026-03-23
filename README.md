@@ -15,4 +15,8 @@ A simple and interactive score tracking app built using HTML, CSS, and JavaScrip
 - CSS (Bulma)
 - JavaScript (DOM Manipulation)
 
+- ## 🎥 Demo
+
+![App Demo](demo.gif)
+
 
