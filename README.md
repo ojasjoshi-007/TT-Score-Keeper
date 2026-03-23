@@ -15,10 +15,4 @@ A simple and interactive score tracking app built using HTML, CSS, and JavaScrip
 - CSS (Bulma)
 - JavaScript (DOM Manipulation)
 
-- TT-Score-Keeper/
-│
-├── index.html
-├── app.js
-├── style.css
-├── .gitignore
-└── README.md
+
