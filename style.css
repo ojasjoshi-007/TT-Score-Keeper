@@ -1,0 +1,12 @@
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+.serving {
+    color: #3273dc;
+    font-weight: 700;
+}
